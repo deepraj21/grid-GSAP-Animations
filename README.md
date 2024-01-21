@@ -1,4 +1,4 @@
 # Grid
 
 ## Website Preview
-<ing src="preview.png">
+<img src="preview.png">
